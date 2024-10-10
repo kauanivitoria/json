@@ -13,5 +13,20 @@
     "marca": "Zara",
     "usuarios": 150000000,
     "paises": ["Espanha", "Itália", "México", "Rússia"]
+  },
+  {
+    "marca": "H&M",
+    "usuarios": 120000000,
+    "paises": ["Suécia", "Estados Unidos", "Reino Unido", "Austrália"]
+  },
+  {
+    "marca": "Uniqlo",
+    "usuarios": 100000000,
+    "paises": ["Japão", "Coreia do Sul", "França", "Estados Unidos"]
+  },
+  {
+    "marca": "Puma",
+    "usuarios": 85000000,
+    "paises": ["Alemanha", "Estados Unidos", "Itália", "Brasil"]
   }
 ]
