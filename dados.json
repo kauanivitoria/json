@@ -1,47 +1,17 @@
-{
-    "votacao": {
-        "total_votantes": 1500,
-        "marcas": [
-            {
-                "marca": "Nike",
-                "valor_da_marca": "Nike"
-            },
-            {
-                "marca": "Adidas",
-                "valor_da_marca": "Adidas"
-            },
-            {
-                "marca": "Puma",
-                "valor_da_marca": "Puma"
-            },
-            {
-                "marca": "H&M",
-                "valor_da_marca": "H&M"
-            },
-            {
-                "marca": "Zara",
-                "valor_da_marca": "Zara"
-            },
-            {
-                "marca": "Levi's",
-                "valor_da_marca": "Levi's"
-            },
-            {
-                "marca": "Uniqlo",
-                "valor_da_marca": "Uniqlo"
-            },
-            {
-                "marca": "Forever 21",
-                "valor_da_marca": "Forever 21"
-            },
-            {
-                "marca": "Lacoste",
-                "valor_da_marca": "Lacoste"
-            },
-            {
-                "marca": "Ralph Lauren",
-                "valor_da_marca": "Ralph Lauren"
-            }
-        ]
-    }
-}
+[
+  {
+    "marca": "Nike",
+    "usuarios": 300000000,
+    "paises": ["Estados Unidos", "Brasil", "China", "Alemanha"]
+  },
+  {
+    "marca": "Adidas",
+    "usuarios": 250000000,
+    "paises": ["Reino Unido", "Canadá", "França", "Japão"]
+  },
+  {
+    "marca": "Zara",
+    "usuarios": 150000000,
+    "paises": ["Espanha", "Itália", "México", "Rússia"]
+  }
+]
